@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+    padding-bottom: 50px;
+
+}
+
+
+#title {
+    color: black
+}
+
+h1 {
+    color: darkred;
+}
+
+#howto {
+    border: 1px solid darkred;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
